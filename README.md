@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Pisal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align-"right" alt="Coding" width="400" src "https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" />
+<img align-"right" alt="Coding" width="400" src "[https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif](https://drive.google.com/file/d/12J9cP_k5WQtsw9ndXMjrews-AIbGTFca/view?usp=drive_link)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav128&label=Profile%20views&color=0e75b6&style=flat" alt="pranav128" /> </p>
 
