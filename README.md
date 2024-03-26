@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Pisal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif" />
 <p align="left"> <a href="https://twitter.com/pranavpisal128" target="blank"><img src="https://img.shields.io/twitter/follow/pranavpisal128?logo=twitter&style=for-the-badge" alt="pranavpisal128" /></a> </p>
 
 - 🔭 I’m currently working on **DSA**
